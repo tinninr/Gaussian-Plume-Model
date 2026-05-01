@@ -62,5 +62,12 @@ This project helped me understand how air pollution models are used to assess en
 
 - Python  
 - NumPy  
-- Matplotlib 
+- Matplotlib
 
+## Example Outputs
+
+### Ground-Level Concentration & Compliance Map
+![2D Map](results/2D_map.png)
+
+### Effect of Wind Speed
+![Wind Speed](results/wind_speed_plot.png)
