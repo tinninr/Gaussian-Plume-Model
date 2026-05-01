@@ -1,6 +1,7 @@
 # Air Pollution Modelling with the Gaussian Plume Model
 
-This project explores how pollutants disperse from an industrial stack using the Gaussian plume model, implemented in Python.
+This project explores how pollutants disperse from an industrial stack using the Gaussian plume model, implemented in Python. It evaluates how atmospheric stability and wind speed affect pollutant concentration and 
+assesses compliance at different receptor locations.
 
 ---
 
